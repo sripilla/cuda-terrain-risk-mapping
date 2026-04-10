@@ -39,3 +39,16 @@
 
 # debug information files
 *.dwo
+
+# CUDA temp files
+*.ptx
+*.cudafe*
+*.fatbin
+
+# Output files
+*.csv
+output.png
+
+# OS files
+.DS_Store
+Thumbs.db
